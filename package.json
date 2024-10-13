@@ -1,9 +1,9 @@
 {
-  "name": "create-ssam-nextjs-template",
+  "name": "create-ssam0419-nextjs-template",
   "version": "1.0.0",
   "main": "index.js",
   "bin": {
-    "create-ssam-nextjs-template": "./index.js"
+    "create-ssam0419-nextjs-template": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
