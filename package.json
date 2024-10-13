@@ -1,0 +1,20 @@
+{
+  "name": "create-ssam-nextjs-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "create-ssam-nextjs-template": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nextjs",
+    "react-query",
+    "shadcn",
+    "clerk"
+  ],
+  "author": "SSam0419",
+  "license": "MIT",
+  "description": ""
+}
